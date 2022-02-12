@@ -4,6 +4,10 @@ import java.io.IOException;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
+<<<<<<< HEAD
+=======
+import javafx.scene.Parent;
+>>>>>>> 60b197bcf9db688f7f0880a8fba2162930c48ffe
 import javafx.scene.Scene;
 import javafx.scene.control.ScrollPane;
 import javafx.stage.Stage;
